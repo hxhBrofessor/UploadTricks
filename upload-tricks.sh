@@ -2,7 +2,6 @@
 #
 #Author: hxhBrofessor
 #Title:  upload-tricks.sh
-#Purpose: Builds multiple PHP scripts with different file extensions along with one file that contains a GIF magic number appended to the script
 ################################################################################################################################################
 
 getPath=$(pwd)
